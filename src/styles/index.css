@@ -1,0 +1,41 @@
+.body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Navigation bar style. */
+.navbarStyle {
+  padding: 1.5rem 1rem !important;
+}
+.navbarColor{
+background-color: #002D62;
+}
+
+/* Select button style*/
+.selectButton{
+background-color: #002D62;
+color: white ;
+position: relative;
+left: 921px;
+}
+/* Input form style */
+.inputForm{
+  position: relative;
+  width: 250px;
+}
+/*Submit button style*/
+.submitButton{
+  position: relative;
+  left: 301px;
+  padding: 13px;
+  width: 73px;
+}
